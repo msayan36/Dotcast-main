@@ -25,7 +25,7 @@ class NavigationMenuProvider {
                 
         }
 
-        $menuHtml .= "<br><span class='heading'>2019 &copy; DecenTube, LLC</span>";
+        $menuHtml .= "<br><span class='heading'>2019 &copy; DotCast, LLC</span>";
         
 
         return "<div class='navigationItems'>

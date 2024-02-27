@@ -5,7 +5,7 @@ session_start();
 date_default_timezone_set("Asia/Kolkata");
 
 try {
-		$con = new PDO("mysql:dbname=decentube;host=localhost;charset=utf8mb4;","root","");
+		$con = new PDO("mysql:dbname=DotCast;host=localhost;charset=utf8mb4;","root","");
 		$con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING);
 		$ipfsNodeArray = array(
 			"1" => "https://314744871d1c.ngrok.io/ipfs/",

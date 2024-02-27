@@ -26,7 +26,7 @@
     },
     "consensus": {
       "crdt": {
-        "cluster_name": "DECENTUBE-CLUSTER",
+        "cluster_name": "DotCast-CLUSTER",
         "trusted_peers": [
           "*"
         ]

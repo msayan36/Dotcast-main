@@ -14,7 +14,7 @@ if(!User::isLoggedIn()) {
     <form method="POST">
 					<p>
                     <h6>
-                        Introducing&nbsp;"DecenTube Coin"&nbsp;&nbsp;&nbsp;&nbsp;(DTC)&nbsp;!<br><br> 
+                        Introducing&nbsp;"DotCast Coin"&nbsp;&nbsp;&nbsp;&nbsp;(DTC)&nbsp;!<br><br> 
                         Coin Buy Price:&nbsp;&nbsp; <span class="buy-token-price"></span> ETH per coin&nbsp;&nbsp; (₹ 5 per coin)<br>
                         Coin Sell Price:&nbsp;&nbsp;&nbsp; <span class="sell-token-price"></span> ETH per coin&nbsp;&nbsp; (₹ 4.75 per coin)<br><br>
                         Your last buy transaction was made on: <span class="last-buy-timestamp"></span><br>

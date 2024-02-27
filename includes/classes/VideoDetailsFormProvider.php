@@ -116,7 +116,7 @@ class VideoDetailsFormProvider {
 	}
 
 	public function createReportForm() {
-		$statement = "<p>Flagged videos are reviewed by DecenTube staff 24 hours a day, seven days a week to determine whether they violate any guidelines. If any guidelines are violated, then the video will be taken down. </p>";
+		$statement = "<p>Flagged videos are reviewed by DotCast staff 24 hours a day, seven days a week to determine whether they violate any guidelines. If any guidelines are violated, then the video will be taken down. </p>";
 		$videoUrlInput = $this->createVideoUrlInput();
 		$reportCategoriesInput = $this->createReportCategoriesInput();
 		$reportCommentsInput = $this->createReportCommentsInput();

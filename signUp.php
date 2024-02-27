@@ -42,7 +42,7 @@ function getInputValue($name) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>DecenTube</title>
+    <title>DotCast</title>
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
@@ -138,9 +138,9 @@ window.VideosSharingContract = <?php require_once("includes/VideosSharingJSON.ph
         <div class="column" >
                 <!-- style="background-color:rgb(18, 18, 18);" -->
             <div class="header">
-                <img src="assets/images/icons/DecenTubeLogo.png" title="logo" alt="Site logo">
+                <img src="assets/images/icons/DotCastLogo.png" title="logo" alt="Site logo">
                 <h3>Sign Up</h3>
-                <span>to continue to DecenTube</span>
+                <span>to continue to DotCast</span>
             </div>
 
             <div class="loginForm">
@@ -178,7 +178,7 @@ window.VideosSharingContract = <?php require_once("includes/VideosSharingJSON.ph
                   <input type="text" name="blockiesIcon" hidden="true">
                   <input type="text" name="ethAddr" class="ethAddress" readonly="true">
                   <br>
-                  <span><input type="checkbox" id="terms_conditions_checkbox" required onclick="signTerms_Conditions();">&nbsp;&nbsp;By signing up with DecenTube, I agree to the <a href='#' onclick="$('#tandcModal').modal('show');">Terms & Conditions.</a></span>
+                  <span><input type="checkbox" id="terms_conditions_checkbox" required onclick="signTerms_Conditions();">&nbsp;&nbsp;By signing up with DotCast, I agree to the <a href='#' onclick="$('#tandcModal').modal('show');">Terms & Conditions.</a></span>
                   <input type="submit" name="submitButton" value="SUBMIT">
                 </form>
             </div>
@@ -191,26 +191,26 @@ window.VideosSharingContract = <?php require_once("includes/VideosSharingJSON.ph
         <div class="modal-dialog modal-dialog-centered" role="document">
               <div class="modal-content" style="background-color:black;">
                   <div class="modal-header">
-                    <h5 class="modal-title">Terms & Conditions | DecenTube</h5>
+                    <h5 class="modal-title">Terms & Conditions | DotCast</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                       <span aria-hidden="true">&times;</span>
                     </button>
                   </div>
                   <div class="modal-body">
-                  <p>1. DecenTube enforces the usage of DTC(DecenTube Coins) for all transactions and actions performed by the user.</p>
-                  <p>2. DecenTubers will spend 5 DTC coins each time they like, dislike a video  or subscribe a channel. 
-                  <br>In case of subscribing or liking action, of these 5 DTC coins , 4 will be rewarded to the content creator(uploader) and 1 coin will be deposited with DecenTube as DecenTube Community Fund. 
-                  <br>In case of disliking, all the 5 DTC coins will be deposited with DecenTube as DecenTube Community Fund.
+                  <p>1. DotCast enforces the usage of DTC(DotCast Coins) for all transactions and actions performed by the user.</p>
+                  <p>2. DotCastrs will spend 5 DTC coins each time they like, dislike a video  or subscribe a channel. 
+                  <br>In case of subscribing or liking action, of these 5 DTC coins , 4 will be rewarded to the content creator(uploader) and 1 coin will be deposited with DotCast as DotCast Community Fund. 
+                  <br>In case of disliking, all the 5 DTC coins will be deposited with DotCast as DotCast Community Fund.
                   </p>
 
-                  <p>3. DecenTube reserves the right to decide in its sole discretion whether Your Content, Your DecenTube Account and/or Your use of the DecenTube Service violates these Terms for any reasons other than copyright infringement, such as, but not limited to, pornography, obscenity, or excessive length. 
+                  <p>3. DotCast reserves the right to decide in its sole discretion whether Your Content, Your DotCast Account and/or Your use of the DotCast Service violates these Terms for any reasons other than copyright infringement, such as, but not limited to, pornography, obscenity, or excessive length. 
                   Failure to comply with these Terms may result in <br>
                   (i) Your Content being blocked without prior notice and/or <br>
-                  (ii) Your DecenTube Account being deactivated without prior notice and/or <br>
-                  (iii) In addition, DecenTube reserves the right to report any violation of these provisions to applicable legal authorities and You may be personally liable to criminal sanctions applicable to the content in question (fines and imprisonment), in addition to any applicable civil damages.</p>
+                  (ii) Your DotCast Account being deactivated without prior notice and/or <br>
+                  (iii) In addition, DotCast reserves the right to report any violation of these provisions to applicable legal authorities and You may be personally liable to criminal sanctions applicable to the content in question (fines and imprisonment), in addition to any applicable civil damages.</p>
 
-                  <p>4. Due to its tokenized business model, DecenTube is 100% ad-free and does not collect any personal data from its users. DecenTube respects the privacy of its users.</p>
-                  <p>5. DecenTube reserves the right to accept/deny users from purchasing and selling DTC tokens. DecenTube also reserves the right to destroy the smart contract without providing prior notice.</p>
+                  <p>4. Due to its tokenized business model, DotCast is 100% ad-free and does not collect any personal data from its users. DotCast respects the privacy of its users.</p>
+                  <p>5. DotCast reserves the right to accept/deny users from purchasing and selling DTC tokens. DotCast also reserves the right to destroy the smart contract without providing prior notice.</p>
                   </div>
 
               </div>
@@ -224,25 +224,25 @@ function signTerms_Conditions() {
 
               _Our Terms & Conditions have been updated as of December 21st , 2019_
 
-              1. DecenTube enforces the usage of DTC(DecenTube Coins) for all transactions and actions performed by the user.
+              1. DotCast enforces the usage of DTC(DotCast Coins) for all transactions and actions performed by the user.
               
-              2. DecenTubers will spend 5 DTC coins each time they like, dislike a video  or subscribe a channel. 
+              2. DotCastrs will spend 5 DTC coins each time they like, dislike a video  or subscribe a channel. 
                   
-                  In case of subscribing or liking action, of these 5 DTC coins , 4 will be rewarded to the content creator(uploader) and 1 coin will be deposited with DecenTube as DecenTube Community Fund. 
-                  In case of disliking, all the 5 DTC coins will be deposited with DecenTube as DecenTube Community Fund.
+                  In case of subscribing or liking action, of these 5 DTC coins , 4 will be rewarded to the content creator(uploader) and 1 coin will be deposited with DotCast as DotCast Community Fund. 
+                  In case of disliking, all the 5 DTC coins will be deposited with DotCast as DotCast Community Fund.
                   
-              3. DecenTube reserves the right to decide in its sole discretion whether Your Content, Your DecenTube Account and/or Your use of the DecenTube Service violates these Terms for any reasons other than copyright infringement, such as, but not limited to, pornography, obscenity, or excessive length. 
+              3. DotCast reserves the right to decide in its sole discretion whether Your Content, Your DotCast Account and/or Your use of the DotCast Service violates these Terms for any reasons other than copyright infringement, such as, but not limited to, pornography, obscenity, or excessive length. 
                   Failure to comply with these Terms may result in 
 
                   (i) Your Content being blocked without prior notice and/or 
 
-                  (ii) Your DecenTube Account being deactivated without prior notice and/or 
+                  (ii) Your DotCast Account being deactivated without prior notice and/or 
 
-                  (iii) In addition, DecenTube reserves the right to report any violation of these provisions to applicable legal authorities and You may be personally liable to criminal sanctions applicable to the content in question (fines and imprisonment), in addition to any applicable civil damages.
+                  (iii) In addition, DotCast reserves the right to report any violation of these provisions to applicable legal authorities and You may be personally liable to criminal sanctions applicable to the content in question (fines and imprisonment), in addition to any applicable civil damages.
 
-              4. Due to its tokenized business model, DecenTube is 100% ad-free and does not collect any personal data from its users. DecenTube respects the privacy of its users.
+              4. Due to its tokenized business model, DotCast is 100% ad-free and does not collect any personal data from its users. DotCast respects the privacy of its users.
               
-              5. DecenTube reserves the right to accept/deny users from purchasing and selling DTC tokens. DecenTube also reserves the right to destroy the smart contract without providing prior notice.`;
+              5. DotCast reserves the right to accept/deny users from purchasing and selling DTC tokens. DotCast also reserves the right to destroy the smart contract without providing prior notice.`;
 
 
   var msg = window.web3.utils.asciiToHex(text)

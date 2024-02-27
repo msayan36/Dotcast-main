@@ -5,9 +5,9 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="DecenTube" />
+<meta name="description" content="DotCast" />
 <!-- SITE TITLE -->
-<title>DecenTube</title>
+<title>DotCast</title>
 <!-- Favicon Icon -->
 <link rel="shortcut icon" type="image/x-icon" href="l_assets/images/favicon.ico">
 <!-- Animation CSS -->
@@ -93,7 +93,7 @@
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-12 col-sm-12 order-lg-first text_md_center">
         <div class="banner_text">
-          <h1 class="animation" data-animation="fadeInUp" data-animation-delay="1.5s"><!-- <span>DecenTube</span> -->
+          <h1 class="animation" data-animation="fadeInUp" data-animation-delay="1.5s"><!-- <span>DotCast</span> -->
             <span><img src="l_assets/images/logo.png" width="50%"></span>
           </h1>
           <h3 class="animation" data-animation="fadeInUp" data-animation-delay="1.6s">A decentralized video streaming platform powered by Ethereum &amp; IPFS.</h3>
@@ -125,26 +125,26 @@
       <div class="col-lg-5 col-md-12 col-sm-12">
         <div class="title_light">
           <h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.1s">How it Works</h2>
-          <p class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">DecenTube's functionality is based on the usage of DTC (DecenTube Coins).  DecenTube has a "decent"  aspect because it has a transparency in it's payout system. The entire smart contract code can be accessed through any blockchain explorer.</p>
+          <p class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">DotCast's functionality is based on the usage of DTC (DotCast Coins).  DotCast has a "decent"  aspect because it has a transparency in it's payout system. The entire smart contract code can be accessed through any blockchain explorer.</p>
         </div>
         </div>
       <div class="col-lg-7 col-md-12 col-sm-12">
         <div class="work_box animation" data-animation="fadeInUp" data-animation-delay="0.4s">
           <div class="box_inner"> <i class="ion-person-add"></i>
             <h4>Create Account</h4>
-            <p>The user has to create an account on DecenTube and link it with his/her Ethereum address.</p>
+            <p>The user has to create an account on DotCast and link it with his/her Ethereum address.</p>
           </div>
         </div>
         <div class="work_box animation" data-animation="fadeInUp" data-animation-delay="0.5s">
           <div class="box_inner"> <i class="ion-ios-locked"></i>
             <h4>Safe &amp; Secure</h4>
-            <p>DecenTube provides functionality to link your MetaMask Wallet with it. Thus, security measures are provided.</p>
+            <p>DotCast provides functionality to link your MetaMask Wallet with it. Thus, security measures are provided.</p>
           </div>
         </div>
         <div class="work_box animation" data-animation="fadeInUp" data-animation-delay="0.6s">
           <div class="box_inner"> <i class="ion-android-cart"></i>
             <h4>Buy &amp; Sell</h4>
-            <p>DecenTube Coins(DTC) can be purchased in exchange for a certain amount of ETH.
+            <p>DotCast Coins(DTC) can be purchased in exchange for a certain amount of ETH.
             DTC can also be sold to get back ETH in return.</p>
           </div>
         </div>
@@ -161,7 +161,7 @@
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="title_light"> 
-          <span class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"> DecenTube's Technology Stack</span>
+          <span class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"> DotCast's Technology Stack</span>
           <h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">Ethereum &amp; IPFS</h2>
           <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">
           Ethereum is a global, open-source platform for decentralized applications.
@@ -181,7 +181,7 @@ On Ethereum, you can write code that controls digital value, runs exactly as pro
     <div class="row text-center">
       <div class="col-lg-8 col-md-12 offset-lg-2">
         <div class="title_light"> 
-			<h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Why DecenTube ?</h2>
+			<h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Why DotCast ?</h2>
 			<!-- <p class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">Competitive advantages are conditions that allow a company or country to produce a good or service at equal value but at a lower price or in a more desirable fashion</p> -->
         </div>
       </div>
@@ -344,7 +344,7 @@ On Ethereum, you can write code that controls digital value, runs exactly as pro
       <div class="col-lg-8 col-md-12 offset-lg-2">
         <div class="title_light"> 
 			<span class="animation" data-animation="fadeInUp" data-animation-delay="0.1s">Road Map</span>
-			<h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">DecenTube's Timeline</h2>
+			<h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">DotCast's Timeline</h2>
 			<!-- <p class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">Cryptominded is a curated directory of the best cryptocurrency resources. We're slowly transforming the website into the best place for beginners to learn about cryptocurrencies</p> -->
         </div>
       </div>

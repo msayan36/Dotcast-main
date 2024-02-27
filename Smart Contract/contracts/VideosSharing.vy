@@ -47,7 +47,7 @@ def __init__():
     _decimals: uint256 = 3
     self.totalSupply = _initialSupply * 10 ** _decimals
     self.balances[msg.sender] = self.totalSupply
-    self.name = 'DecenTube Coin'
+    self.name = 'DotCast Coin'
     self.symbol = 'DTC'
     self.decimals = _decimals
 

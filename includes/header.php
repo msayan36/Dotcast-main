@@ -17,7 +17,7 @@ $userEthAddress = $userLoggedInObj->getEthAddress();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>DecenTube</title>
+    <title>DotCast</title>
     <meta name="viewport" content="width=device-width, initial-scale=0.1">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
@@ -52,7 +52,7 @@ $userEthAddress = $userLoggedInObj->getEthAddress();
             </button>
 
             <a class="logoContainer" href="index.php">
-                <img src="assets/images/icons/DecenTubeLogo.png" title="logo" alt="Site logo">
+                <img src="assets/images/icons/DotCastLogo.png" title="logo" alt="Site logo">
             </a>
 
             <div class="searchBarContainer">

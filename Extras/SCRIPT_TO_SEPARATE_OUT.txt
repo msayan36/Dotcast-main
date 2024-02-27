@@ -1,5 +1,5 @@
 <head>
-        <title>DecenTube</title>
+        <title>DotCast</title>
     
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">

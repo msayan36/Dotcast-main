@@ -30,7 +30,7 @@ function getInputValue($name) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>DecenTube</title>
+    <title>DotCast</title>
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
@@ -47,9 +47,9 @@ function getInputValue($name) {
         <div class="column" >
                 <!-- style="background-color:rgb(18, 18, 18);" -->
             <div class="header">
-                <img src="assets/images/icons/DecenTubeLogo.png" title="logo" alt="Site logo">
+                <img src="assets/images/icons/DotCastLogo.png" title="logo" alt="Site logo">
                 <h3>Sign In</h3>
-                <span>to continue to DecenTube</span>
+                <span>to continue to DotCast</span>
             </div>
 
             <div class="loginForm">
